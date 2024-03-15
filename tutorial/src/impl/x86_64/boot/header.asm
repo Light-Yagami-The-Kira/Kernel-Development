@@ -12,6 +12,6 @@ header_start:
     ; end tag
     dw 0
     dw 0
-    dw 8
+    dd 8
 
 header_end:
